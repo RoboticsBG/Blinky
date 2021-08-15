@@ -1,0 +1,7 @@
+tmp/
+*.bak
+*.tgz
+*.zip
+*.rar
+*.log
+.DS_Store

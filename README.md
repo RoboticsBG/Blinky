@@ -1,5 +1,5 @@
 # Blinky UI v.0.0.3
-## Simple Python Human Blink Counter
+## Simple Python Human Eyeblinks Counter
 
 Uses a standard webcam to capture eye blinks. 
 Added QT UI that allows to play media file via VLC.
